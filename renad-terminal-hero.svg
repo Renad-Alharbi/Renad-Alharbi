@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Renad developer terminal</title>
+  <desc id="desc">A dark terminal-style introduction for a GitHub profile README.</desc>
+  <style>
+    .bg { fill: #0d1117; }
+    .top { fill: #161b22; }
+    .border { fill: none; stroke: #30363d; stroke-width: 2; }
+    .txt { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-size: 27px; fill: #c9d1d9; }
+    .muted { fill: #8b949e; }
+    .cmd { fill: #7ee787; }
+    .accent { fill: #79c0ff; }
+    .ok { fill: #56d364; }
+    .title { font-size: 24px; fill: #8b949e; }
+    .cursor { fill: #c9d1d9; animation: blink 1s steps(1,end) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect x="1" y="1" rx="22" ry="22" width="1198" height="618" class="bg"/>
+  <rect x="1" y="1" rx="22" ry="22" width="1198" height="70" class="top"/>
+  <rect x="1" y="1" rx="22" ry="22" width="1198" height="618" class="border"/>
+
+  <circle cx="38" cy="36" r="10" fill="#ff5f56"/>
+  <circle cx="70" cy="36" r="10" fill="#ffbd2e"/>
+  <circle cx="102" cy="36" r="10" fill="#27c93f"/>
+  <text x="600" y="45" text-anchor="middle" class="txt title">renad@github — zsh</text>
+
+  <text x="55" y="120" class="txt cmd">renad@github:~$ whoami</text>
+  <text x="55" y="165" class="txt">Renad 👋</text>
+  <text x="55" y="205" class="txt muted">Computer Science &amp; Artificial Intelligence Student</text>
+
+  <text x="55" y="275" class="txt cmd">renad@github:~$ ./enter-my-world</text>
+
+  <text x="55" y="325" class="txt ok">[✓]</text>
+  <text x="115" y="325" class="txt">Curiosity loaded</text>
+
+  <text x="55" y="370" class="txt ok">[✓]</text>
+  <text x="115" y="370" class="txt">Creativity loaded</text>
+
+  <text x="55" y="415" class="txt ok">[✓]</text>
+  <text x="115" y="415" class="txt">Code initialized</text>
+
+  <text x="55" y="460" class="txt ok">[✓]</text>
+  <text x="115" y="460" class="txt">Ideas compiling...</text>
+
+  <text x="55" y="520" class="txt accent">ACCESS GRANTED 🚀</text>
+  <text x="55" y="565" class="txt">Welcome to my digital world — growing one project at a time.</text>
+  <rect x="1138" y="543" width="16" height="28" class="cursor"/>
+</svg>
