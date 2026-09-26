@@ -12,3 +12,10 @@
   <br><br>
   I enjoy exploring AI, software development, and creating projects that grow with every new skill I learn.
 </p>
+
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,docker,wordpress,git,github,vscode&perline=11" />
+</p>
