@@ -154,20 +154,15 @@ Keep learning, creating, and evolving.
 <!--                    GITHUB STATS                       -->
 <!-- ===================================================== -->
 
-<h2 align="center">📊 GitHub World</h2>
+<h2 align="center">💻 GitHub Terminal</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Renad-Alharbi&show_icons=true&hide_border=true&theme=github_dark"
-    height="165"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renad-Alharbi&layout=compact&hide_border=true&theme=github_dark"
-    height="165"
+    src="https://github-readme-insight-terminal-asci.vercel.app/svg/stats?user=Renad-Alharbi&theme=mac"
+    width="100%"
+    alt="GitHub Terminal Stats"
   />
 </p>
-
 
 <!-- ===================================================== -->
 <!--                    CONNECT                            -->
@@ -177,9 +172,9 @@ Keep learning, creating, and evolving.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://www.linkedin.com/in/renad-alharbi-ab0683281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" />
-</a>
+ <a href="https://www.linkedin.com/in/renad-alharbi-ab0683281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    LinkedIn
+  </a>
 
 
 
