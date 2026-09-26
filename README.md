@@ -1,55 +1,201 @@
+<!-- ===================================================== -->
+<!--                    TERMINAL HERO                      -->
+<!-- ===================================================== -->
+
 <p align="center">
   <img src="./renad-terminal-hero.svg"
        width="100%"
        alt="Renad Terminal Introduction" />
 </p>
 
+
+<!-- ===================================================== -->
+<!--                      ABOUT ME                         -->
+<!-- ===================================================== -->
+
 <h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
-  I'm Renad, a Computer Science & Artificial Intelligence student
-  passionate about building, experimenting, and turning ideas into real digital experiences.
+  Hi! I'm <b>Renad</b> — a Computer Science & Artificial Intelligence student
+  who enjoys turning ideas into real digital experiences.
   <br><br>
-  I enjoy exploring AI, software development, and creating projects that grow with every new skill I learn.
+  I'm interested in artificial intelligence, software development,
+  data-driven solutions, and building projects that grow with every new skill I learn.
 </p>
 
-<!-- TECH STACK -->
+
+<!-- ===================================================== -->
+<!--                     TECH STACK                        -->
+<!-- ===================================================== -->
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,docker,wordpress,git,github,vscode&perline=11" />
 </p>
 
-<!-- FEATURED PROJECTS -->
+
+<!-- ===================================================== -->
+<!--                  PAC-MAN TECH WORLD                   -->
+<!-- ===================================================== -->
+
+<h2 align="center">👾 Leveling Up...</h2>
+
+<p align="center">
+  <img src="./renad-pacman-tech.svg"
+       width="100%"
+       alt="Renad Pac-Man Tech Journey" />
+</p>
+
+<p align="center">
+  <i>Every technology is another level unlocked.</i> 🎮
+</p>
+
+
+<!-- ===================================================== -->
+<!--                  FEATURED PROJECTS                    -->
+<!-- ===================================================== -->
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center">
 <tr>
+
 <td width="50%" valign="top">
 
-### 🌐 Volunteer Teams Web Platform
+<h3>🌐 Volunteer Teams Web Platform</h3>
 
-A reusable web platform designed for volunteer teams, allowing multiple teams to launch customized websites from a scalable and reusable structure.
+<p>
+A reusable web platform designed for volunteer teams,
+allowing multiple teams to launch customized websites
+from a scalable and reusable structure.
+</p>
 
-**Tech:**  
+<b>Built with:</b>
+
+<br>
+
 WordPress • Docker • MySQL • HTML • CSS
 
-<p><i>Repository coming soon...</i></p>
+<br><br>
+
+<i>Repository coming soon...</i>
 
 </td>
+
 
 <td width="50%" valign="top">
 
-### 🤖 Next Project...
+<h3>🤖 Next Build...</h3>
 
-Currently exploring and building new projects in:
+<p>
+Currently exploring new ideas and building projects
+across AI, software development, and intelligent digital experiences.
+</p>
 
-- Artificial Intelligence
-- Software Development
-- Data-driven Solutions
+<b>Status:</b>
 
-<p><i>More projects coming soon...</i></p>
+<br>
+
+<code>building...</code>
+
+<br><br>
+
+<i>More projects coming soon.</i>
 
 </td>
+
 </tr>
 </table>
+
+
+<!-- ===================================================== -->
+<!--                 CURRENTLY LEARNING                    -->
+<!-- ===================================================== -->
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<p align="center">
+
+🤖 Artificial Intelligence
+&nbsp;&nbsp;•&nbsp;&nbsp;
+💻 Software Development
+&nbsp;&nbsp;•&nbsp;&nbsp;
+📊 Data & Intelligent Solutions
+
+<br><br>
+
+Always experimenting, learning, and turning new concepts into projects.
+
+</p>
+
+
+<!-- ===================================================== -->
+<!--                     FUTURE                            -->
+<!-- ===================================================== -->
+
+<h2 align="center">🎯 What's Next?</h2>
+
+<p align="center">
+
+Build useful products.<br>
+Explore smarter AI solutions.<br>
+Turn more ideas into real projects.<br>
+Keep learning, creating, and evolving.
+
+<br><br>
+
+<b>This world is still under construction.</b> 🚧
+
+</p>
+
+
+<!-- ===================================================== -->
+<!--                    GITHUB STATS                       -->
+<!-- ===================================================== -->
+
+<h2 align="center">📊 GitHub World</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Renad-Alharbi&show_icons=true&hide_border=true&theme=github_dark"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renad-Alharbi&layout=compact&hide_border=true&theme=github_dark"
+    height="165"
+  />
+</p>
+
+
+<!-- ===================================================== -->
+<!--                    CONNECT                            -->
+<!-- ===================================================== -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://www.linkedin.com/in/renad-alharbi-ab0683281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" />
+</a>
+
+
+
+
+
+</p>
+
+
+<br>
+
+<p align="center">
+
+<code>&lt;/ keep building &gt;</code>
+
+<br><br>
+
+<b>Learn • Build • Experiment • Evolve</b> 🚀
+
+</p>
